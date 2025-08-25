@@ -7,3 +7,4 @@ Silakan gunakan format berikut:<br>
 
 Berikut adalah daftar Volunter yang diterima:
 * Achmad Zidan Al Baihaqi, [LinkedIn](https://www.linkedin.com/in/achmad-zidan-al-baihaqi-51162337b/).
+* Gilang Ramadhan, [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
