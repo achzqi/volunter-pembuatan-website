@@ -6,4 +6,4 @@ Silakan gunakan format berikut:<br>
 **\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
 
 Berikut adalah daftar Volunter yang diterima:
-* Achmad Zidan Al Baihaqi, [LinkedIn]([https://oo.or.id](https://www.linkedin.com/in/achmad-zidan-al-baihaqi-51162337b/).
+* Achmad Zidan Al Baihaqi, [LinkedIn](https://www.linkedin.com/in/achmad-zidan-al-baihaqi-51162337b/).
